@@ -1,2 +1,2 @@
 # biocharhub
-Hub for all biochar related research and work
+Future Hub for all biochar related research and work
