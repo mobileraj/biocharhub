@@ -1,2 +1,4 @@
-# biocharhub
-Future Hub for all biochar related research and work
+## Welcome to Biochar Hub
+### created, curated and composed by Tejas Buds LLC
+
+More contents on Biochar and related research to come...
