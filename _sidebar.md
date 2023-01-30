@@ -2,6 +2,12 @@
 
 * [Biochar Hub](./)
 
+* [Biochar Basics](basics/)
+
+* [Chicken Growers](chicken/)
+
+* [Gardening](garden/)
+
 * [About](./about/)
 
 * [Contact](./contact/)
