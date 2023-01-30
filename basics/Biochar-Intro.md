@@ -13,14 +13,14 @@ As formerly mentioned, pyrolysis is the method used to produce biochar. The orga
 
 The schematic for typical biochar production is shown below
 
-![img1](/images/BiocharIntro.png)
+<img src="https://github.com/mobileraj/biocharhub/blob/main/images/BiocharIntro.png?raw=true"></img>
 
 There are number of home grown and industrial systems for creating biochar. The most prevalent one is called the Kon-Tiki Kiln [3], which uses a large metal drum and specific open fire burning technique to perform pyrolysis. 
 
 ### BET Systems
 The Biomass Energy Techniques [4] produces various systems for performing effective pyrolysis, which ensures all of the gases and biofuel is burnt in the system to produce heat and biochar. This is seen in the below diagram, which modifies the original biochar schematic. All of the volatile organic gases is burnt within the system to reach upwards of 2000 F. The heat produced is used for various industrial and domestic purposes, from boiling water, to providing heat during cold seasons or any derivatives as thermo energy.
 
-![img2](/images/BETBiochar.png)
+<img src="https://github.com/mobileraj/biocharhub/blob/main/images/BETBiochar.png?raw=true"></img>
 
 ## Some use of biochar
 The primitive use of biochar was in agriculture and production of fuel and forestry control. Although there is a large body of work around uses of biochar in agriculture, there are other innovative uses that has been discovered in the last century. The properties of biochar includes low thermal conductivity, stability, water absorption, large surface area per gram for binding foreign materials, to name a few. These properties then lend itself to some interesting usage. We will explore just a few
@@ -32,8 +32,7 @@ The primitive use of biochar was in agriculture and production of fuel and fores
 ### Biochar in soil
 The main focus of this introduction paper will be on its known use in agriculture and gardening. Before we explore this topic, it would be good to present the nutrient cycle in plant biology.
 
-![PlantFlow.png](PlantFlow.png)
-
+<img src="https://github.com/mobileraj/biocharhub/blob/main/images/PlantFlow.png?raw=true"></img>
 
 The exudates[5] are what the plants put out as a product of their photosynthesis, in creating simple and complex sugars, which then become the food needed for the micro organisms. These micro organisms in turn feed on these exudates. Their excretions and the food web they become part of, becoming food for macro organisms, creates a fabric in the soil to release the nutrients (minerals and compounds) locked in the soil. These nurtients, naturally available in most soil, is then made available to plant for its growth. This balance symbiotic relationship of the plant and the rich set of soil organisms, along with the birds and bees that are part of this cycle, help in the overall health of the plant. In various instances, the soil might be damaged in its nutrient density or might have the nutrients locked away or might be nutrient rich, but not have enough biological organisms to spur this nutrient cycle. These are the causes of poor plant yield. In the past we have looked at this as a chemistry problem and there by taking a chemical approach to feed the plants. A more complete approach is to treat this as a biological problem and ensure the right organisms are able to support the plant, with right soil structure and unhindered flow of the nutrients for the plants to consume.
 
@@ -42,8 +41,7 @@ This is where biochar comes in. In addition to compost and other natural organic
 Biochar, therefore not only enhances the nutrient cycle but also helps with soil structure, which is critical to making structurally sound plants resistant to diseases and weather elements. This makes biochar a prime candidate in building of various soil amendments and additives that can be used to drive a higher plant yield in a more organic way.
 
 
-![flow](PlantFlowBiochar.png)
-
+<img src="https://github.com/mobileraj/biocharhub/blob/main/images/PlantFlowBiochar.png?raw=true"></img>
 
 A more detailed paper with scientific background will be published to elaborate these points at a later date.
 
