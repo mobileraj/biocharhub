@@ -1,4 +1,4 @@
-![ig](https://tejasbuds.com/images/logo-small.png)
+&nbsp;&nbsp;![ig](https://tejasbuds.com/images/logo-small.png)
 
 * [Biochar Hub](./)
 
