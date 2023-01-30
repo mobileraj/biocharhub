@@ -13,7 +13,7 @@ As formerly mentioned, pyrolysis is the method used to produce biochar. The orga
 
 The schematic for typical biochar production is shown below
 
-![img1](BiocharIntro.png)
+![img1](images/BiocharIntro.png)
 
 There are number of home grown and industrial systems for creating biochar. The most prevalent one is called the Kon-Tiki Kiln [3], which uses a large metal drum and specific open fire burning technique to perform pyrolysis. 
 
