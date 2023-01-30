@@ -2,13 +2,16 @@
 
 * [Biochar Hub](./)
 
-* [Biochar Basics](basics/)
-    - [Biochar Intro](basics/Biochar-Intro)
+* Biochar Basics
+    - [Biochar Intro](basics/2022-12-24-Biochar-Intro)
 
-* [Chicken Growers](chicken/)
+* Chicken Growers
+    - [Introduction](chicken/2023-01-10-BiocharChickenIntro)
 
 * [Gardening](garden/)
 
-* [About](./about/)
+* [Back to Tejas Buds](https://tejasbuds.com/)
+
+* [About](https://tejasbuds.com/about.html)
 
 * [Contact](./contact/)
