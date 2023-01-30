@@ -3,6 +3,7 @@
 * [Biochar Hub](./)
 
 * [Biochar Basics](basics/)
+    - [Biochar Intro](basics/Biochar-Intro)
 
 * [Chicken Growers](chicken/)
 
