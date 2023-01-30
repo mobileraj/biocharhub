@@ -13,14 +13,14 @@ As formerly mentioned, pyrolysis is the method used to produce biochar. The orga
 
 The schematic for typical biochar production is shown below
 
-![img1](images/BiocharIntro.png)
+![img1](/images/BiocharIntro.png)
 
 There are number of home grown and industrial systems for creating biochar. The most prevalent one is called the Kon-Tiki Kiln [3], which uses a large metal drum and specific open fire burning technique to perform pyrolysis. 
 
 ### BET Systems
 The Biomass Energy Techniques [4] produces various systems for performing effective pyrolysis, which ensures all of the gases and biofuel is burnt in the system to produce heat and biochar. This is seen in the below diagram, which modifies the original biochar schematic. All of the volatile organic gases is burnt within the system to reach upwards of 2000 F. The heat produced is used for various industrial and domestic purposes, from boiling water, to providing heat during cold seasons or any derivatives as thermo energy.
 
-![img2](BETBiochar.png)
+![img2](/images/BETBiochar.png)
 
 ## Some use of biochar
 The primitive use of biochar was in agriculture and production of fuel and forestry control. Although there is a large body of work around uses of biochar in agriculture, there are other innovative uses that has been discovered in the last century. The properties of biochar includes low thermal conductivity, stability, water absorption, large surface area per gram for binding foreign materials, to name a few. These properties then lend itself to some interesting usage. We will explore just a few
