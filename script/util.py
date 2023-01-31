@@ -19,7 +19,7 @@ def getSidebar(pre,post):
             for fim in foo:
                 b = fim.split('-')
                 li = ' '.join(b[3:])[0:-3]
-                htm = htm +"\n" +"  - ["+li+"]("+Path(fim).stem+"/"+Path(fim).stem+")"
+                htm = htm +"\n" +"  - ["+li+"]("+Path(f).stem+"/"+Path(fim).stem+")"
                 print("  -["+li+"]("+Path(f).stem+"/"+Path(fim).stem+")")
                 allfiles.setdefault(Path(fim).stem,Path(f).stem+"/"+Path(fim).stem)
     htm = htm +"\n" + post
