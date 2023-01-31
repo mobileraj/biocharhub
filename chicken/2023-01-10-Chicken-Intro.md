@@ -6,7 +6,7 @@
 **About**: This paper is about the benefits of biochar in managing your backyard chicken coops or your chicken houses if you are a producer.
 
 ## Introduction
-Biochar has been known to the ancient world in the Amazonia and agricultural practices of South America. This provided a base for agriculture and natural growth encountered by the Europeans in these parts of Amazon and South America. The technical definition, per Lehmann and Joseph is the following: *biochar is the carbon-rich product obtained when biomass, such as wood, manure or leaves, is heated in a closed container with little or no available air.* Visit our site for details on [biochar introduction]().
+Biochar has been known to the ancient world in the Amazonia and agricultural practices of South America. This provided a base for agriculture and natural growth encountered by the Europeans in these parts of Amazon and South America. The technical definition, per Lehmann and Joseph is the following: *biochar is the carbon-rich product obtained when biomass, such as wood, manure or leaves, is heated in a closed container with little or no available air.* Visit our site for details on [biochar introduction](https://tejasbuds.com/biocharhub/#/basics/2022-12-24-Biochar-Intro).
 
 ## Some Challenges in Poultry Management
 Poultry business, be it a backyard coop to supply meat and eggs for the family or few dozen chicken houses managed by veteran producers, are plagued with similar problems, albeit at different scales.
