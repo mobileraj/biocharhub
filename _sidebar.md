@@ -1,7 +1,6 @@
 
-&nbsp;&nbsp;![ig](https://tejasbuds.com/images/logo-small.png) Biochar Hub
+&nbsp;&nbsp;<a href="https://tejasbuds.com"><img src="https://tejasbuds.com/images/logo-small.png"></img></a> [Biochar Hub](./)
 
-* [Biochar Hub](./)
 - Basics :black_medium_small_square:
   - [Biochar Intro](basics/2022-12-24-Biochar-Intro)
 - Chicken :baby_chick:
