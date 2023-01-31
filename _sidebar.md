@@ -1,5 +1,5 @@
 
-&nbsp;&nbsp;![ig](https://tejasbuds.com/images/logo-small.png)
+&nbsp;&nbsp;![ig](https://tejasbuds.com/images/logo-small.png) Biochar Hub
 
 * [Biochar Hub](./)
 - Basics :black_medium_small_square:
