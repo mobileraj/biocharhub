@@ -4,7 +4,7 @@
 * [Biochar Hub](./)
 - Basics
   - [Biochar Intro](basics/2022-12-24-Biochar-Intro)
-- Chicken
+- Chicken :baby_chick:
   - [Chicken Intro](chicken/2023-01-10-Chicken-Intro)
 - Garden
   - [Biochar Cabbage](garden/2022-09-12-Biochar-Cabbage)
