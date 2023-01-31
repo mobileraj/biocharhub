@@ -40,7 +40,7 @@ From the research in [3,4] we see that the TN (Total Nitrogen) ad TC (Total Carb
 ## Conclusion
 In summary, we can view the above information in a schematic as follows.
 
-![img](lifecycle-chickenhouse.png)
+<img src="https://github.com/mobileraj/biocharhub/blob/main/images/lifecycle-chickenhouse.png?raw=true"></img>
 
 In addition to the peer-reviewed research cited, we have several local studies done in the larger Ozarks area and have created specific recipes for adding biochar for your chicken houses. We also have guidelines on how to balance biochar in bedding, timing of it based on when your birds come in, litter depth as well as mixing in the feed. Note, that by having it in the bedding and litter the birds will intake as they scratch and peck, therefore, if trying to employ the complete program, specific guidelines needs to be followed.
 
