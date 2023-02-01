@@ -4,7 +4,7 @@
 More contents on Biochar and related research to come...
 
 ```mermaid
-flowchart LR
+flowchart TD
     bc((Biochar))
     g[Garden]
     c[Chicken House]
