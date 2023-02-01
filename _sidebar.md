@@ -11,7 +11,7 @@
 * [Back to Tejas Buds](https://tejasbuds.com/)
 * [About](https://tejasbuds.com/about.html)
 * [Contact](./contact/)
-- Paper Roll :scroll:
+- Page Roll :scroll:
   - [2023-01-10-Chicken-Intro](chicken/2023-01-10-Chicken-Intro)
   - [2022-12-24-Biochar-Intro](basics/2022-12-24-Biochar-Intro)
   - [2022-12-12-Garden-Application](garden/2022-12-12-Garden-Application)
