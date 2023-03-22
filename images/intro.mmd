@@ -1,0 +1,17 @@
+flowchart TD
+    bc((Biochar))
+    g[Garden]
+    c[Chicken House]
+    l(Litter)
+    cp(Compost)
+    b[Barn]
+    f[Farm]
+    bc ==soil_amendment==>g
+    bc ==poultry_additive==>c
+    bc ==barn_additive==>b
+    c -.-> l
+    l -.-> cp
+    cp -.-> g
+    b -.-> cp
+    l -.-> f
+    cp -.-> f
